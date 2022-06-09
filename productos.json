@@ -1,0 +1,8 @@
+{
+  "productos": [
+      {
+          "nombre": "Plátano",
+          "img": "/assets/img/banana.png"
+      }
+  ]
+}
